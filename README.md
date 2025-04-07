@@ -1,4 +1,4 @@
 # DemoProject
-this is my first git repository
+This is my first git repository
 <br>
-author - shridhar
+Author - Shridhar Bagayatkar
